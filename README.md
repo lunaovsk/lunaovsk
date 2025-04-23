@@ -8,9 +8,9 @@
 
 ### 🧠 Sobre mim
 
-- 🎯 Buscando crescer como Desenvolvedor Back‑End
+- 🎯 Buscando crescer como Desenvolvedor Back‑End em liguagens orientada a objetos
 - 📚 Estudando **Java**, **Spring Boot**, **MySQL**, **C#**, **HTML** e **CSS**
-- 💻 Desenvolvendo projetos próprios e APIs REST com autenticação JWT
+- 💻 Desenvolvendo projetos próprios e APIs REST
 - 🛠️ Tentando transformar ritalina em código (com sucesso, na maioria das vezes)
 
 
