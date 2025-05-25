@@ -19,7 +19,7 @@
 ### 📈 Estatísticas
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaovsk&show_icons=true&theme=dark&hide=stars&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaovsk&layout=compact&theme=dark&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaovsk&layout=compact&theme=dark&cache_seconds=3601)
 
 ---
 
