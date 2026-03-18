@@ -1,4 +1,4 @@
-## Olá! Eu sou Matheus 👨‍💻🖤
+## Olá! Eu sou Matheus 
 
 ---
 
