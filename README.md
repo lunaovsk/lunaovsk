@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-- Buscando crescer como Desenvolvedor Back‑End em liguagens orientada a objetos
+- Buscando crescer como Desenvolvedor Back‑End em linguagens orientada a objetos
 - Estudando **Java**, **Spring Boot**, **MySQL**, **C#**, **JavaScript**, **HTML** e **CSS**
 - Desenvolvendo projetos próprios e APIs REST
 
@@ -18,9 +18,9 @@
 
 ### Estatísticas
 
-![Minhas Estatísticas GitHub stats](https://github-readme-stats-eight.vercel.app/api?username=lunaovsk&show_icons=true&theme=dark&hide=stars&count_private=true)
+![Minhas Estatísticas GitHub stats](https://github-readme-stats-omega-inky-52.vercel.app/api?username=lunaovsk&show_icons=true&theme=dark&hide=stars&count_private=true)
 
-![Top Langs](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=lunaovsk&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-omega-inky-52.vercel.app/api/top-langs/?username=lunaovsk&layout=compact&theme=dark)
 
 ---
 
