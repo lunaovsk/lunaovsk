@@ -18,6 +18,7 @@
 
 ### Estatísticas
 
+![Minhas Estatísticas GitHub stats](https://nice-readme.vercel.app/stats?username=lunaovsk&show_icons=true&theme=dark&hide=stars&count_private=true)
 ![Minhas Estatísticas GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaovsk&show_icons=true&theme=dark&hide=stars&count_private=true&cache_seconds=3601)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaovsk&layout=compact&theme=dark&cache_seconds=3601)
 
