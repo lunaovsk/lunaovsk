@@ -4,8 +4,8 @@
 
 ### Sobre mim
 
-- Buscando crescer como Desenvolvedor Back‑End em linguagens orientada a objetos
-- Estudando **Java**, **Spring Boot**, **MySQL**, **C#**, **JavaScript**, **HTML** e **CSS**
+- Buscando crescer como Desenvolvedor em linguagens orientada a objetos
+- Estudando **Java**, **Spring Boot**, **MySQL**, **C#**, **JavaScript**, **React**, **HTML** e **CSS**
 - Desenvolvendo projetos próprios e APIs REST
 
 ---
